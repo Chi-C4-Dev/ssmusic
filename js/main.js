@@ -171,7 +171,7 @@
 			}
 		});
 	};
-	scrollWindow();
+	//scrollWindow();
 
 	
 
