@@ -1,2 +1,2 @@
 # ssmusic
-Construção da weboage na prodtuora ssmusic
+Construção da webpage na prodtuora ssmusic
