@@ -9686,3 +9686,9 @@ textarea.form-control {
     .home-slider {
       touch-action: pan-y; /* Permite o scroll vertical */
     }
+    @media only screen and (max-width: 600px) {
+      .home-slider {
+        height: 50vh; /* Define a altura do carrossel para 50% da altura da tela */
+      }
+    }
+    
