@@ -91,7 +91,7 @@
 	    animateOut: 'fadeOut',
 	    animateIn: 'fadeIn',
 	    nav:false,
-	    autoplayHoverPause: true,
+	    autoplayHoverPause: false,
 		touchDrag: false,
    		mouseDrag: false,
 	    items: 1,
